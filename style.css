@@ -1,5 +1,10 @@
+html {
+    height: 100%;
+}
+
 body {
-    background-color: #ECE6F5
+    background-color: #ECE6F5;
+    height: 100%;
 }
 #myWork {
    background-color: #635DB6;
@@ -8,7 +13,11 @@ body {
 footer {
     position: fixed;
     bottom: 0;
-    height: 100px;
+    height: 60px;
     color: white;
     font-size: smaller;
+}
+/* negative margin for sticky footer */
+main {
+    margin-bottom: 60px;
 }
