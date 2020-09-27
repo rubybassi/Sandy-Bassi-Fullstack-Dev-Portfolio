@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    height: 100px;
+    color: white;
+    font-size:  smaller;
+}
