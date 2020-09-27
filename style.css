@@ -1,11 +1,14 @@
 body {
-    background-color: pink;
+    background-color: #ECE6F5
 }
-
-.footer {
+#myWork {
+   background-color: #635DB6;
+}
+/* sticky footer positioning */
+footer {
     position: fixed;
     bottom: 0;
     height: 100px;
     color: white;
-    font-size:  smaller;
+    font-size: smaller;
 }
