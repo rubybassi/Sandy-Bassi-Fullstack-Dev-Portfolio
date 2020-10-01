@@ -1,4 +1,4 @@
-#![GitHub Repo stars](https://img.shields.io/github/stars/rubybassi?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/rubybassi?style=social)
 
 # CSS Bootstrap: Responsive Portfolio
 
