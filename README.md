@@ -21,7 +21,7 @@ If you have feedback / advice on the above, please feel free to comment.
 
 The following image was provided to demonstrate how the web application's layout should resemble, although there was room for customisation:
 
-![End Game Mock Up](images/mockup.png)
+![End Game Mock Up](assets/images/mockup.png)
 
 ### My Development Enviromment:
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -29,4 +29,4 @@ The following image was provided to demonstrate how the web application's layout
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [W3 HTML validator checker – results below](https://validator.w3.org/)
 
-![W3 HTML validator checker](/images/w3-validator-results.png)
+![W3 HTML validator checker](assets/images/w3-validator-results.png)
