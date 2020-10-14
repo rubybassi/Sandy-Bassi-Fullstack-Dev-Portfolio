@@ -6,7 +6,7 @@
 
 This project is my attempt of using Bootstrap CSS Framework to create a mobile responsive portfolio. I used semantic HTML elements for accessibility and best practice for structure.
 
-[View my final project on GitHub pages](https://rubybassi.github.io/bootstrap-responsive-portfolio/index.html)
+[View my final project on GitHub pages](https://rubybassi.github.io/pretty-cool-responsive-portfolio/)
 
 Comments were added throughout both HTML and CSS files, highlighting key conponents. Images were correctly sized for site speed performance.
 
