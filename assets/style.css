@@ -29,7 +29,7 @@ main {
 }
 
 h2 {
-    padding: 50px 0 20px 0;
+    padding: 10px 0 20px 0;
 }
 
 #showcase1 section {
@@ -44,4 +44,8 @@ h2 {
 .fas, .fab {
     padding-right: 15px; 
     color: #7c5a9d;;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Montserrat', sans-serif;
 }
