@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: #ECE6F5;
+    background-color: #7c5a9d;
     height: 100%;
 }
 #myWork {
@@ -20,4 +20,17 @@ footer {
 /* negative margin for sticky footer */
 main {
     margin-bottom: 60px;
+}
+
+#showcase2 {
+    padding-bottom: 100px;
+    background-color: #ece6f5;
+}
+h2 {
+    text-align: center;
+    padding: 50px 0 20px 0;
+}
+
+#showcase1 section {
+    margin-top: 100px;
 }
