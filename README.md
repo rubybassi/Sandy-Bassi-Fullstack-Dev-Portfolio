@@ -1,32 +1,30 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rubybassi?style=social)
 
-# CSS Bootstrap: Responsive Portfolio
+# Sandy-Bassi-Fullstack-Dev-Portfolio
 
 ## Background
 
-This project is my attempt of using Bootstrap CSS Framework to create a mobile responsive portfolio. I used semantic HTML elements for accessibility and best practice for structure.
+This project is an updated version of my responsive portfolio using Bootstrap CSS Framework to create a mobile UI website. 
 
-[View my final project on GitHub pages](https://rubybassi.github.io/pretty-cool-responsive-portfolio/)
+Demonstrating employer-competiveness, through updated and optimised projects and social media profiles, is greatly encouraged on the University of Birmingham's coding bootcamp course. 
 
-Comments were added throughout both HTML and CSS files, highlighting key conponents. Images were correctly sized for site speed performance.
+With this in mind, we was tasked with updating our portfolios to showcase our first group project and a selection of exemplary homework assignments. In addition, a downloadble CV and recent contact details were to be included so that employers can reach out.
 
-### Challenges
+I copied my previous project and imported it to preserve the commit history. I used semantic HTML elements for accessibility and best practice for structure.
 
-Alot of reading! There was a substantial amount of documentation to read through to understand the layout, conponents and utilities that Bootstrap has to offer. I used a mix of reading, Googling and Youtube videos to help understand the basics and some trickier conponents such as the sticky footer.
+[View my final project on GitHub pages](https://rubybassi.github.io/Sandy-Bassi-Fullstack-Dev-Portfolio/index.html)
 
-If you have feedback / advice on the above, please feel free to comment.
+### Preview
 
+The following image previews the website layout on all devices.
 
-### Expected Layout Mockup
-
-The following image was provided to demonstrate how the web application's layout should resemble, although there was room for customisation:
-
-![End Game Mock Up](assets/images/mockup.png)
+![Mobile UI](assets/images/project-mockup.png)
 
 ### My Development Enviromment:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * Terminal
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* [W3 HTML validator checker – results below](https://validator.w3.org/)
-
-![W3 HTML validator checker](assets/images/w3-validator-results.png)
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [W3 HTML validator checker](https://validator.w3.org/)
