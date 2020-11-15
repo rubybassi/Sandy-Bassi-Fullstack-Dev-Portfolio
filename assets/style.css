@@ -3,13 +3,14 @@ html {
 }
 
 body {
-    background-color: #7c5a9d;
+    background-color: #ece6f5;
     height: 100%;
 }
+
 #myWork {
    background-color: #635DB6;
 }
-/* sticky footer positioning */
+
 footer {
     position: fixed;
     bottom: 0;
@@ -17,20 +18,30 @@ footer {
     color: white;
     font-size: smaller;
 }
-/* negative margin for sticky footer */
+
 main {
     margin-bottom: 60px;
 }
 
-#showcase2 {
+#showcase2, #showcase3 {
     padding-bottom: 100px;
     background-color: #ece6f5;
 }
+
 h2 {
-    text-align: center;
     padding: 50px 0 20px 0;
 }
 
 #showcase1 section {
     margin-top: 100px;
+}
+
+#icons a {
+    color: black;
+    padding-right: 50px; 
+}
+
+.fas, .fab {
+    padding-right: 15px; 
+    color: #7c5a9d;;
 }
