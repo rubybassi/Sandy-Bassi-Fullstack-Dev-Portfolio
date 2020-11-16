@@ -1,6 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rubybassi?style=social)
 
-# Sandy-Bassi-Fullstack-Dev-Portfolio
+# Sandy Bassi Fullstack Developer Portfolio
 
 ## Background
 
